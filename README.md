@@ -1,6 +1,6 @@
 ### Opa pode me chamar de Gallego!
 
-Boas vindas a meu Github. Meu nome é Gabriel e eu atualmente estou aprendendo programação pela Alura.<br>
+Boas vindas a meu Github. Meu nome é Gabriel e eu atualmente estou aprendendo programação pela Universidade Anhembi Morumbi, cursando Análise e Desenvolvimento de Sistemas.<br>
 Caso interesse alguns dos meus projetos estão aqui para todos
 
 ## Contatos
