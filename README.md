@@ -5,7 +5,7 @@ Procuro sempre me atualizar com novos conhecimentos pois sei que o mercado da pr
 Não irei comentar muita coisa por aqui pois tenho meu portifólio criado em HTML para se "aprofundar" um pouco mais na minha pessoa. 
 Caso interesse em alguns dos meus projetos estão aqui para todos, segue link para caso queira conhecer meu site:<br>
 <div>
- <a href="https://linksgallego.vercel.app/#index"/>
+ <a Link do site href="https://linksgallego.vercel.app/#index"/>
 </div>
    
 ## Contatos
