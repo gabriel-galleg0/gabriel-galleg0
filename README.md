@@ -4,8 +4,10 @@ Boas vindas ao meu Github. Meu nome é Gabriel e eu atualmente estou aprendendo 
 Procuro sempre me atualizar com novos conhecimentos pois sei que o mercado da programação não para. Atualmente tenho preferência com a área de desenvolvimento BackEnd, não sou tão bom com design quanto com estruturação de códigos. 
 Não irei comentar muita coisa por aqui pois tenho meu portifólio criado em HTML para se "aprofundar" um pouco mais na minha pessoa. 
 Caso interesse em alguns dos meus projetos estão aqui para todos, segue link para caso queira conhecer meu site:<br>
-#### <a src="https://linksgallego.vercel.app/#index"/>
-
+<div>
+ <a href="https://linksgallego.vercel.app/#index"/>
+</div>
+   
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gallego-5a7276241/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](emailto:gabriel.j.g.g23@gmail.com)
