@@ -1,9 +1,8 @@
 ### Bom dia, sou o Gallego!
 
-Boas vindas ao meu Github. Meu nome é Gabriel e eu atualmente estou aprendendo programação pela Universidade Anhembi Morumbi, cursando Análise e Desenvolvimento de Sistemas.<br>
-Procuro sempre me atualizar com novos conhecimentos pois sei que o mercado da programação não para. Atualmente tenho preferência com a área de desenvolvimento BackEnd, não sou tão bom com design quanto com estruturação de códigos. 
-Não irei comentar muita coisa por aqui pois tenho meu portifólio criado em HTML para se "aprofundar" um pouco mais na minha pessoa. 
-Caso interesse em alguns dos meus projetos estão aqui para todos, segue link para caso queira conhecer meu site:<br>
+Boas vindas ao meu Github. Meu nome é Gabriel e curso Análise e desenvolvimento de sistemas na universidade Anhembi Morumbi, onde tenho desenvolvido minhas habilidades de programação e adiquirido novos conhecimentos sobre o mercado de tecnologia,
+com foco no BackEnd<br>
+Caso tenha se interessado em meus projetos, segue meu portifólio com trabalhos em maior detalhe:
 https://linksgallego.vercel.app/#index
 
    
