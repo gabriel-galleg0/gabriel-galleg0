@@ -1,7 +1,7 @@
 ### Bom dia, sou o Gallego!
 
 Boas vindas ao meu Github. Meu nome é Gabriel e curso Análise e desenvolvimento de sistemas na universidade Anhembi Morumbi, onde tenho desenvolvido minhas habilidades de programação e adiquirido novos conhecimentos sobre o mercado de tecnologia, com foco no BackEnd.<br>
-Atualmente possuo melhor prática com a linguagem <strong>Java</strong>, para mobile e para softwares de computadores, porém estou disposto a caso necessário aprender outras linguagens.<br>
+Atualmente possuo melhor prática com a linguagem <strong>Java</strong>, para mobile e para softwares de computadores, porém estou disposto, caso necessário a aprender outras linguagens.<br>
 
    
 ## Contatos
